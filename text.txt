@@ -1,0 +1,2 @@
+this is a text file to open with python absolute path
+it took me nearly five days to solve this relative path issue
